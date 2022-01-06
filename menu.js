@@ -24,6 +24,7 @@ imagen.addEventListener("click",()=>{
 
     box.classList.add("fondo");
     box.classList.add("show");
+   
 
     aparecerImagen(imagen.getAttribute('src'));
     console.log(imagen);
