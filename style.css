@@ -16,6 +16,7 @@ body{
 
 margin: 0;
 padding: 0;
+overflow: hidden;
 }
 
 /* header*/
@@ -557,6 +558,8 @@ top: 10px;
 
 @media  screen and (max-width:900px) {
 
+
+
  .seccion3{
 
 height: 800px;
@@ -598,6 +601,12 @@ font-size: 1rem;
 
 @media  screen and (max-width:760px){
 
+
+   body{
+
+      background: red;
+      
+      }
   .contenedor_izq{
 
    left: 30%;
