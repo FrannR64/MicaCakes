@@ -85,7 +85,7 @@ height:0 2rem;
 
 .seccion1{
 
-   background: url(/imagenes/torta-fondo.jpg);
+   background: url(imagenes/torta-fondo.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
@@ -352,7 +352,7 @@ footer::after{
 
 .izquierda{
 width: 50vw;
-background-image:url(/imagenes/slashio-photography-T5KPTbbK-_E-unsplash.jpg);
+background-image:url(imagenes/slashio-photography-T5KPTbbK-_E-unsplash.jpg);
 background-position:center center ;
 background-repeat: no-repeat;
 background-size: cover;
@@ -411,7 +411,7 @@ top: 10px;
 
 .derecha{
    width: 50vw;
-   background: url(/imagenes/david-holifield-kPxsqUGneXQ-unsplash.jpg);
+   background: url(imagenes/david-holifield-kPxsqUGneXQ-unsplash.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    position: relative;
