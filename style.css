@@ -8,6 +8,7 @@
 html{
 
    font-size: 62.5%;
+   overflow: hidden;
 
 }
 
@@ -602,11 +603,7 @@ font-size: 1rem;
 @media  screen and (max-width:760px){
 
 
-   body{
-
-      background: red;
-      
-      }
+  
   .contenedor_izq{
 
    left: 30%;
