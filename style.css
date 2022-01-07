@@ -507,7 +507,7 @@ top: 10px;
    .contenedor_izq{
 
       top: 50%;
-      left:32%;
+      left:30%;
 
    }
 
@@ -515,6 +515,13 @@ top: 10px;
       width: 100%;
       height: 800px;
    }
+
+   footer{
+
+      height: 1500px;
+
+   }
+
 
 
    .contenedor_derecha h3{
@@ -597,6 +604,9 @@ font-size: 1rem;
 
    font-size: 1rem;
 }
+
+
+
  
 }
 
